@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Jayanth Gowda Ramanna, I completed my undergrad in Computer Science and now I'm pursuing my master's in Computer Science at Western Michigan University.
 <!--
 **Jayanthgowdar/Jayanthgowdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
